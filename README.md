@@ -4,16 +4,9 @@
 # 😀 About Me:
 🔭 I’m currently learning Golang and RAG and LLMs
 
-## 🌐 Socials:
+## 🤝 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thiago-correa-016a1428/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@thiagofarbo) 
 
-## 🤝 Connect with me:
-https://www.linkedin.com/in/thiago-correa-016a1428/
-
-## 📝 Latest Blog posts:
-[Medium](https://medium.com/@thiagofarbo)
-
-[Dev Community](https://dev.to/thiagoemidiocorrea)
 
 
 # 💻 Tech Stack:
