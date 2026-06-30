@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 # 😀 About Me:
-🔭 I’m currently learning Golang, RAG and LLMs
+🔭 I’m currently learning AI, RAG and LLMs
 
 ## 🤝 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thiago-correa-016a1428/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@thiagofarbo) 
